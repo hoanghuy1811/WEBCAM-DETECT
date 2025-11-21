@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel FaceID",
+  "description": "Advanced facial recognition system using Gemini 2.5 Flash. Detects faces from webcam feed, compares them against a local user-defined database, and handles mask detection with intelligent cooldowns.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
